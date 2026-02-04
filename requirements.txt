@@ -1,0 +1,11 @@
+## Project Requirements
+
+- Java 17
+- Maven 3.9+
+- JUnit 5.11.4
+- Jenkins
+- Git
+- Linux (Ubuntu)
+
+Dependencies are managed via pom.xml
+
