@@ -8,4 +8,4 @@
 - Linux (Ubuntu)
 
 Dependencies are managed via pom.xml
-
+-java 17 
